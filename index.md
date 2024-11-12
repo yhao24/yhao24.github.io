@@ -16,4 +16,4 @@ I received my Bachelor of Economics at Southwest University of Political Science
 
 ## Teaching
 
-- **Fall 2024**: Math 110 - Collage Algebra
+- Fall 2024: Math 110 - Collage Algebra
