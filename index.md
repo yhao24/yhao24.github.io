@@ -10,7 +10,9 @@ I received my Bachelor of Economics at Southwest University of Political Science
 
 ## Research
 
-
+- I was a Research Assistant from Spring 2023 to Spring 2024;
+- Research project - New nonparametric Method to Select and Estimate Interaction Effects;
+- Research project - Predicting Epilepsy in Patients with SAH Using Longitudinal Measurements;
 
 ## Teaching
 
