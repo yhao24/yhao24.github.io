@@ -5,3 +5,5 @@ plugins:
 title: Yuncheng Hao
 description: Welcome to my homepage. You can find my info here.
 show_downloads: true
+github:
+  zip_url: http://example.com/download.zip
