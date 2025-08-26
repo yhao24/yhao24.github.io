@@ -18,3 +18,4 @@ I received my Bachelor of Economics at Southwest University of Political Science
 
 - Fall 2024: Math 110 - Collage Algebra
 - Spring 2025: Math 125 - Elementary Linear Algebra
+- Fall 2025: Stat 362 - Elements of Statistical Computing
