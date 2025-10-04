@@ -5,8 +5,8 @@ theme: jekyll-theme-minimal
 gem "github-pages", group: :jekyll_plugins
 
 title: Yuncheng Hao
-description: Welcome to my homepage. You can find my info here.
+description: Welcome to my homepage! Here, you can explore my professional background, research interests, and projects. Feel free to navigate through the sections to learn more about my work and interests.
 show_downloads: true
-logo: /assets/img/logo.png
+logo: /assets/img/Portrait.jpg
 # github:
 #   zip_url: http://example.com/download.zip
